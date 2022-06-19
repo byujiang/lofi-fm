@@ -13,8 +13,9 @@ export const defaultSongs = [
   "ldyqHK0tbSc",
   "IjMESxJdWkg",
   "-5KAN9_CzSA",
+  "mrifWju1q9E",
   "-HaCSso2-FY",
-  "wA0C0uRxSaE",
+  "yTTCx4-LsLQ",
   "q0BVR5jRXxE",
   "DWcJFNfaw9c",
   "RDn61ULEU7CO0",
@@ -23,4 +24,7 @@ export const defaultSongs = [
   "FYBYoRIaguI",
   "6-o3QiMymNI",
   "yrbIVq6QVKo",
+  "FFMMClTlXno",
+  "G_n2oT5YmmY",
+  "0-BMePaEOps",
 ];
